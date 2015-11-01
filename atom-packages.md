@@ -1,0 +1,6 @@
+- `apm install atom-material-ui atom-material-syntax atom-material-syntax-light;`
+- `apm install wercker-status;`
+- `apm install linter-jshint;`
+- `apm install atom-beautify;`
+- `apm install git-plus;`
+- `apm install atom-jshint;`
